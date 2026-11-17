@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Forth year Computer Science student at the University of Alberta</p>
+<p align="left">Fourth year Computer Science student at the University of Alberta</p>
 
 ###
 
